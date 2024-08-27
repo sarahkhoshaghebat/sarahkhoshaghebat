@@ -2,7 +2,7 @@
 My name is Sarah Khoshaghebat
 ===============================
 
-Web Developer 
+FronEnd Web Developer 
 -----------------------------
 
 
